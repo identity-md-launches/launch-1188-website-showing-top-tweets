@@ -1,0 +1,7 @@
+# Dependencies and caches (never committed; dist/ IS committed on purpose)
+node_modules/
+.vite/
+.cache/
+*.tgz
+npm-debug.log*
+.DS_Store
